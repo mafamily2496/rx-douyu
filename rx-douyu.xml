@@ -1,0 +1,72 @@
+<prescriptions xmlns="http://greenify.github.io/schemas/prescription/v2">
+	<prescription type="service" sender="any" package="air.tv.douyu.android" class="org.android.agoo.accs.AgooService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="air.tv.douyu.android" class="com.dy.live.services.CameraRecorderService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="air.tv.douyu.android" class="com.taobao.accs.ChannelService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="air.tv.douyu.android" class="com.taobao.accs.ChannelService$KernelService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="air.tv.douyu.android" class="com.jingdong.crash.inner.CrashService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="air.tv.douyu.android" class="tv.douyu.framework.service.DouyuDownService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="air.tv.douyu.android" class="com.sina.weibo.sdk.net.DownloadService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="air.tv.douyu.android" class="com.lzy.okserver.download.DownloadService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="air.tv.douyu.android" class="tv.douyu.misc.service.LogOnlineService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="air.tv.douyu.android" class="tv.douyu.misc.service.MemoryService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="air.tv.douyu.android" class="com.xiaomi.mipush.sdk.MessageHandleService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="air.tv.douyu.android" class="com.douyu.message.service.MessageService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="air.tv.douyu.android" class="com.douyu.message.service.MsgBinderService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="air.tv.douyu.android" class="com.taobao.accs.data.MsgDistributeService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="air.tv.douyu.android" class="com.dy.video.ProcessService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="air.tv.douyu.android" class="com.xiaomi.mipush.sdk.PushMessageHandler">
+ 	</prescription>
+	<prescription type="service" sender="any" package="air.tv.douyu.android" class="com.dy.live.services.ScreenRecorderService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="air.tv.douyu.android" class="com.umeng.message.UmengDownloadResourceService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="air.tv.douyu.android" class="com.umeng.message.UmengIntentService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="air.tv.douyu.android" class="com.umeng.message.UmengMessageCallbackHandlerService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="air.tv.douyu.android" class="com.umeng.message.UmengMessageIntentReceiverService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="air.tv.douyu.android" class="com.dy.video.VideoTransCodeService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="air.tv.douyu.android" class="com.umeng.message.XiaomiIntentService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="air.tv.douyu.android" class="com.douyu.yuba.service.YubaService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="air.tv.douyu.android" class="com.baidu.location.f">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="air.tv.douyu.android" class="com.taobao.agoo.AgooCommondReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="air.tv.douyu.android" class="tv.douyu.framework.broadcast.ConnectionActionReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="air.tv.douyu.android" class="tv.douyu.framework.broadcast.DateBroadcastReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="air.tv.douyu.android" class="com.taobao.accs.EventReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="air.tv.douyu.android" class="tv.douyu.framework.broadcast.GameDownloadReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="air.tv.douyu.android" class="org.android.agoo.huawei.HuaWeiReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="air.tv.douyu.android" class="org.android.agoo.xiaomi.MiPushBroadcastReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="air.tv.douyu.android" class="com.umeng.message.NotificationProxyBroadcastReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="air.tv.douyu.android" class="com.douyu.message.receiver.NotificationReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="air.tv.douyu.android" class="com.taobao.accs.ServiceReceiver">
+ 	</prescription>
+</prescriptions>
